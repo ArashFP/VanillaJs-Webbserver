@@ -1,0 +1,16 @@
+{
+  "name": "webbserver",
+  "version": "1.0.0",
+  "description": "Simple http server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Arash Falahparsa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
